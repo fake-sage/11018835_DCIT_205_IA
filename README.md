@@ -1,8 +1,8 @@
 # DCIT_205_IA
 University Computer Science Department IA Website Readme
 Introduction and Purpose:
-Welcome to the University Computer Science Department's website repository! This website is designed to be a comprehensive platform 
-providing information about the department's offerings, programs, events, and research initiatives. 
+Welcome to the University Computer Science Department's website repository!
+This website is designed to be a comprehensive platform providing information about the department's offerings, programs, events, and research initiatives. 
 Its purpose is to serve as a central hub for students, faculty, and anyone interested in exploring the diverse aspects of computer science education and research. 
 
 

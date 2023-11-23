@@ -28,10 +28,6 @@ Starting the Application:
 
 Run npm start to start the development server.
 
-Accessing the Website:
-
-Open your web browser and go to http://localhost:3000 to view the University of Ghana Computer Science Department Website.
-
 Screenshots:
 
 Home Page

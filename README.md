@@ -60,3 +60,59 @@ Contact Us Page
 
 Undergraduate Programmes Page
 
+![image](https://github.com/fake-sage/DCIT_205_IA/assets/151413334/148ec562-f912-4f09-8bea-c0b8e947d2fd)
+
+![image](https://github.com/fake-sage/DCIT_205_IA/assets/151413334/329a14a1-e3a8-438b-8a5d-1384a3ddac8e)
+
+![image](https://github.com/fake-sage/DCIT_205_IA/assets/151413334/9de3350c-ff1d-4cf5-9992-3fa2c14b5437)
+
+PhD Programmes page
+
+![image](https://github.com/fake-sage/DCIT_205_IA/assets/151413334/9d1e31d8-c1ec-4c6c-80d2-8dee1d5f0a5a)
+
+![image](https://github.com/fake-sage/DCIT_205_IA/assets/151413334/6219b501-06a4-4ef5-ad40-361093873bb4)
+
+MSc/MPhil Programmes Page
+
+![image](https://github.com/fake-sage/DCIT_205_IA/assets/151413334/578996f7-cd61-4748-b83e-e9e2335b3da3)
+
+![image](https://github.com/fake-sage/DCIT_205_IA/assets/151413334/a42034b8-7156-4fc7-a280-295252b47061)
+
+Events Page
+
+![image](https://github.com/fake-sage/DCIT_205_IA/assets/151413334/357ff2e2-09c3-4e43-b6bb-9c229e32e680)
+
+Research Groups Page
+
+![image](https://github.com/fake-sage/DCIT_205_IA/assets/151413334/03a36f59-682f-4fc1-bdb1-82179c7fc153)
+
+![image](https://github.com/fake-sage/DCIT_205_IA/assets/151413334/e97940e4-dc6d-458a-8854-b9a3cc456955)
+
+Entry Requirements Page
+
+![image](https://github.com/fake-sage/DCIT_205_IA/assets/151413334/8bf5e4c5-69ac-4b50-b966-199826cd8d20)
+
+![image](https://github.com/fake-sage/DCIT_205_IA/assets/151413334/8ea28555-4c5f-47a5-93cd-ee83630c739b)
+
+Technologies Used:
+
+•	The website is built using HTML, CSS, and JavaScript.
+
+•	It utilizes responsive design for optimal viewing on various devices.
+
+
+Author Information:
+
+Author: Nii Ohene Omane-Addo
+
+Student ID: 11018835
+
+What I've Learned:
+
+Through the development of this website, i have acquired valuable insights into:
+
+Web Development:Applying web development principles to create a user-friendly and visually appealing platform.
+Content Organization: Effectively structuring information on various pages to enhance user experience.
+Integration of Features: Incorporating features such as contact forms, program details, and event listings for a comprehensive user experience.
+
+Feel free to explore the website and learn more about our vibrant Computer Science Department!

@@ -23,12 +23,17 @@ Open your web browser and go to http://localhost:3000 to view the University of 
 
 Screenshots:
 Home Page
+
 ![image](https://github.com/fake-sage/DCIT_205_IA/assets/151413334/0a6bc8bf-9930-4c5f-a7cd-e8c472e350b2)
+
 ![image](https://github.com/fake-sage/DCIT_205_IA/assets/151413334/7c070700-488c-44e9-a9c8-a421cabfcdab)
 
 About Page
+
 ![image](https://github.com/fake-sage/DCIT_205_IA/assets/151413334/5e2d35f3-8fc4-4e47-937a-d1b135c4610f)
+
 ![image](https://github.com/fake-sage/DCIT_205_IA/assets/151413334/865573ef-9ec9-4a92-8a57-2c88adaeb1af)
+
 ![image](https://github.com/fake-sage/DCIT_205_IA/assets/151413334/03b43402-9114-4b3c-858f-9b35b7485e5d)
 
 Short Courses Page

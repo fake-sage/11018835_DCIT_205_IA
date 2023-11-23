@@ -38,4 +38,13 @@ About Page
 
 Short Courses Page
 
+![image](https://github.com/fake-sage/DCIT_205_IA/assets/151413334/7ca6a7a9-fc2d-44d9-b8da-9c71ce601153)
+
+![image](https://github.com/fake-sage/DCIT_205_IA/assets/151413334/4fdd222d-4a02-48aa-ae55-02abe51cd2ea)
+
+Contact Us
+
+![image](https://github.com/fake-sage/DCIT_205_IA/assets/151413334/7509687a-fa6b-4d0a-b91a-816102002cac)
+
+Undergraduate Programmes Page
 

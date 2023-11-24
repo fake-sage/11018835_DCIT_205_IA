@@ -116,4 +116,3 @@ Effectively structuring information on various pages to enhance user experience.
 Integration of Features: 
 Incorporating features such as contact forms, program details, and event listings for a comprehensive user experience.
 
-Feel free to explore the website and learn more about our vibrant Computer Science Department!
